@@ -29,13 +29,11 @@ Bu proje, Mobil Programlama dersi kapsamında İstanbul Medeniyet Üniversitesi 
   |
 | **Giriş Ekranı**                     | **Anasayfa**                       |
 |--------------------------------------|-----------------------------------|
-|  ![giriş](https://github.com/user-attachments/assets/2cca1697-24e9-45ed-8e2c-9fdb7453658f)
-  | ![anasayfa](https://github.com/user-attachments/assets/f93571da-7218-468c-af8b-fc7a82f47e8f)
-   |
+|  ![giriş](https://github.com/user-attachments/assets/2cca1697-24e9-45ed-8e2c-9fdb7453658f) | ![anasayfa](https://github.com/user-attachments/assets/f93571da-7218-468c-af8b-fc7a82f47e8f) |
 
 | **Menü Çubuğu**                   | **Profil Sayfası**                 |
 |--------------------------------------|-----------------------------------|
-| ![menü_çubuğu](https://github.com/user-attachments/assets/214810e7-8810-4fe8-b0a6-cf6072470025)      | ![profil](https://github.com/user-attachments/assets/1a43f769-0d81-4f35-b0ab-a17fc4bcec41)    | 
+|  ![menü_çubuğu](https://github.com/user-attachments/assets/6937e911-02e3-425f-9c1e-0d251a0fc25d) |  ![profil](https://github.com/user-attachments/assets/1d0177f2-42eb-4a7d-887e-0b3db0a14d49) | 
 ## Teknolojiler
 
 - **Flutter:**  
