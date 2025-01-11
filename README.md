@@ -29,7 +29,9 @@ Bu proje, Mobil Programlama dersi kapsamında İstanbul Medeniyet Üniversitesi 
   |
 | **Giriş Ekranı**                     | **Anasayfa**                       |
 |--------------------------------------|-----------------------------------|
-| ![giriş](https://github.com/user-attachments/assets/9820926b-92fe-4a5c-badd-f4aff1db3f98)   |![anasayfa](https://github.com/user-attachments/assets/6fa11dff-43fb-40a2-bc96-421252a2e759)     |
+|  ![giriş](https://github.com/user-attachments/assets/2cca1697-24e9-45ed-8e2c-9fdb7453658f)
+  | ![anasayfa](https://github.com/user-attachments/assets/f93571da-7218-468c-af8b-fc7a82f47e8f)
+   |
 
 | **Menü Çubuğu**                   | **Profil Sayfası**                 |
 |--------------------------------------|-----------------------------------|
